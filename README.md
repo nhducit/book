@@ -1,10 +1,10 @@
 # The Rust Programming Language Book [![Build Status](https://travis-ci.org/rust-vietnam/book.svg?branch=master)](https://travis-ci.org/rust-vietnam/book)
 
 ## Requirements
-Install rust
-An easy way to install the stable Rust binaries for Linux and Mac is to run this in your shell:
+Install rRust
+To install Rust, run the following in your terminal, then follow the onscreen instructions.
 ```
-curl -sSf https://static.rust-lang.org/rustup.sh | sh
+curl https://sh.rustup.rs -sSf | sh
 ```
 For windows: 
 ```
